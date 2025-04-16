@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/4jt8ll7v4jncc2jb?svg=true)](https://ci.appveyor.com/project/Maximus301191/postmanecho)
+При правильной сборке [![Build status](https://ci.appveyor.com/api/projects/status/4jt8ll7v4jncc2jb?svg=true)](https://ci.appveyor.com/project/Maximus301191/postmanecho)                  
+При неправильной сборке [![Build status](https://ci.appveyor.com/api/projects/status/a5puvejfdpr2p4rh?svg=true)](https://ci.appveyor.com/project/Maximus301191/postmanecho-7i28c)
